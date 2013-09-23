@@ -1,5 +1,8 @@
+import java.util.Scanner;
+
 public Hola{
   public static void main(String args[]){
-    System.out.println("Hola mundo");
+	Scanner entrada = new Scanner(System.in);
+    	System.out.println("Hola mundo");
   }
 }
